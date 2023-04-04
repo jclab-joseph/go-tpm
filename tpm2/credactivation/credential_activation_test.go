@@ -21,7 +21,7 @@ import (
 	"encoding/pem"
 	"testing"
 
-	"github.com/google/go-tpm/tpm2"
+	"github.com/jclab-joseph/go-tpm/tpm2"
 )
 
 var (

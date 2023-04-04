@@ -1,6 +1,6 @@
 # Testing TPM 1.2 Functionality
 
-**TODO(https://github.com/google/go-tpm/issues/91):** Support for testing the TPM 1.2 stack against
+**TODO(https://github.com/jclab-joseph/go-tpm/issues/91):** Support for testing the TPM 1.2 stack against
 a simulator is a work in progress. Today, it requires several manual steps.
 
 ## Overview

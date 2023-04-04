@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/google/go-tpm/tpm"
+	"github.com/jclab-joseph/go-tpm/tpm"
 )
 
 func main() {

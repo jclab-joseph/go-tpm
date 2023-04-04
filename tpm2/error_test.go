@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/google/go-tpm/tpmutil"
+	"github.com/jclab-joseph/go-tpm/tpmutil"
 )
 
 func TestError(t *testing.T) {
