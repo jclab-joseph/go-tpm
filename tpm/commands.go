@@ -19,7 +19,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/google/go-tpm/tpmutil"
+	"github.com/jclab-joseph/go-tpm/tpmutil"
 )
 
 // submitTPMRequest sends a structure to the TPM device file and gets results

@@ -1,4 +1,4 @@
-module github.com/google/go-tpm
+module github.com/jclab-joseph/go-tpm
 
 go 1.20
 
@@ -7,3 +7,5 @@ require (
 	github.com/google/go-tpm-tools v0.3.13-0.20230620182252-4639ecce2aba
 	golang.org/x/sys v0.8.0
 )
+
+require github.com/google/go-tpm v0.3.0 // indirect
